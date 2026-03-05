@@ -1,0 +1,2 @@
+# ShatGPT
+an Aint Inteligent
