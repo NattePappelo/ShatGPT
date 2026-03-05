@@ -3,7 +3,7 @@
 # shatAPI är ett sätt för vem som hällst att kontakta ShatGPT via python kod,
 # så vem som hällst kan enkelt tillämpa ShatGPT till sina egna avancerade projekt.
 
-def shatAPI(x):    
+def shatAPI(x):
 	if "!" in x:
 		return "ÅHÅ"
 
@@ -22,5 +22,4 @@ if __name__ == "__main__":
 	print("\n\nVälkommen till ShatGPT 0.1.1 alfa \n\n")
 
 	while 1:
-
 		print("\n   "+ shatAPI(input(":  ")) +"\n")
